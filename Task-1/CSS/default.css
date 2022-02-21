@@ -1,0 +1,115 @@
+* {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+#header {
+  background-color: rgba(175, 170, 170, 0.4);
+  color: rgb(0, 82, 100);
+  font-size: 40px;
+  border: 2px solid black;
+}
+#menu {
+  color: rgb(0, 82, 100);
+  padding: 10px 5px 10px 70px;
+  word-spacing: 30px;
+}
+#bgimg {
+  background-image: url(../Image/Desktop.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  color: white;
+}
+h1 {
+  text-align: center;
+  height: ;
+}
+.p {
+  text-align: center;
+  size: 50px;
+  font-size: 50px;
+  color: rgb(0, 82, 100);
+}
+#recentwork {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0, 82, 100);
+}
+#LNimg {
+  display: inline-block;
+  border: 1px solid black;
+  border: 10px;
+}
+
+#LNcontent {
+  display: inline-block;
+  font-size: 20px;
+}
+#topicicons {
+  display: inline-block;
+}
+
+#latestnews {
+  font-size: 20 px;
+  font-weight: bold;
+  color: rgb(0, 82, 100);
+}
+.topicicons {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  padding: 1px;
+}
+.topicheadings {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  color: rgb(0, 82, 100);
+  font-weight: bolder;
+  font-size: 20px;
+}
+.topiccontent {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+section {
+  display: inline-block;
+  padding-left: 200px;
+}
+section {
+  display: block;
+}
+#socialicons {
+  align-content: flex-end;
+}
+#contactinfo {
+  padding: 10px 10px 10px 10px;
+  text-indent: 50px;
+  text-transform: uppercase;
+}
+#design {
+  text-align: center;
+  background-color: grey;
+  color: black;
+  height: 20px;
+  padding: 5px 5px 5px 5px;
+}
+#whatwedo {
+  background-color: rgba(106, 106, 107, 0.3);
+}
+#recentworkbody {
+  background-color: rgba(219, 206, 24, 0.3);
+}
+#latestnewsbody {
+  background-color: rgba(0, 40, 100, 0.15);
+}
+#clientwelovebody {
+  background-color: lightpink;
+}
+#footerbody {
+  background-color: bisque;
+}
+#desktop {
+  display: inline;
+}

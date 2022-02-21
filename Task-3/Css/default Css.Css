@@ -1,0 +1,85 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#head1 {
+  margin: 0px;
+  padding-top: 10px;
+  width: 100%;
+  background-color: rgba(127, 255, 212, 0.4);
+}
+#mainhead {
+  margin: 0px;
+  text-decoration: none;
+  color: red;
+}
+#mainhead {
+  display: inline-block;
+  font-family: "Redressed", cursive;
+  font-size: 35px;
+  font-weight: 700;
+  padding: 10px 0px 10px 60px;
+}
+#navmenu {
+  display: inline-block;
+  float: right;
+  padding-right: 3%;
+}
+.navitems li {
+  display: inline-block;
+  list-style-type: none;
+  float: left;
+  margin-top: 4px;
+  padding: 10px 0px 10px 60px;
+  font-family: "Righteous", cursive;
+  font-size: 35 px;
+  font-weight: 500;
+}
+a {
+  text-decoration: none;
+}
+#B1 {
+  background-color: rgb(16, 16, 219);
+  width: 100px;
+  color: white;
+  font-size: 15px;
+  height: 30px;
+}
+#Mainhead1 {
+  width: 30%;
+  padding: 5% 10% 0% 35%;
+  font-size: 50px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+.mainpara {
+  text-align: center;
+  font-size: 20px;
+  line-height: 50px;
+}
+#Centerbutton {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgba(0, 0, 250, 0.7);
+  color: white;
+}
+#bblocks {
+  width: 10%;
+  display: inline-block;
+  padding: 2% 2% 3% 2%;
+  margin: 5% 5% 5% 5%;
+  font-size: 20px;
+}
+#f1 {
+  background-color: rgba(0, 214, 252, 0.3);
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 3px;
+  margin-bottom: 7px;
+  color: red;
+  font-family: "Josefin Sans", sans-serif;
+}

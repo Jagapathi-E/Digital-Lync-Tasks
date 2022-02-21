@@ -1,0 +1,214 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  height: 50px;
+  margin-left: 70px;
+  margin-top: 25px;
+}
+#block1 {
+  background-color: aquamarine;
+  height: 100vh;
+}
+nav {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  align-items: left;
+}
+header {
+  display: flex;
+  background-color: ;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 1200px;
+}
+li {
+  display: inline;
+  width: 100px;
+  height: 46px;
+  text-align: center;
+  padding: 2px;
+  float: right;
+  line-height: 46px;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin-top: 25px;
+}
+.pagehead {
+  font-size: 25px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 70px;
+}
+#iconp1 {
+  padding: 600px;
+  align-items: center;
+  margin-left: 80px;
+}
+#block2 {
+  background-color: lightpink;
+  height: 100vh;
+}
+.pagehead2 {
+  font-size: 25px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 70px;
+}
+#pagecontent2 {
+  width: 70vh;
+  padding-top: 60px;
+  margin-left: 600px;
+  text-align: center;
+}
+#clidet {
+  display: inline-block;
+  border: 1px solid black;
+  width: 300px;
+  height: 500px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+.clientname {
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+}
+.clientdesig {
+  text-align: center;
+  font-size: 30px;
+}
+.clientphoto {
+  height: 400px;
+  border: 2px solid;
+}
+#block3 {
+  background-color: purple;
+  height: 100vh;
+  color: white;
+}
+.pagehead3 {
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 70px;
+}
+#pagecontent3 {
+  width: 70vh;
+  color: white;
+  padding-top: 60px;
+  margin-left: 600px;
+  text-align: center;
+}
+#servidet3 {
+  display: inline-block;
+  border: 1px solid rgb(255, 255, 255);
+  width: 300px;
+  height: 500px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+.clientphoto3 {
+  height: 200px;
+  border: 2px solid;
+}
+#block4 {
+  background-color: lightseagreen;
+  height: 100vh;
+}
+.pagehead4 {
+  font-size: 25px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 70px;
+}
+#pagecontent4 {
+  width: 70vh;
+  padding-top: 60px;
+  margin-left: 600px;
+  text-align: center;
+}
+#servidet4 {
+  display: inline-block;
+  border: 1px solid rgb(255, 255, 255);
+  width: 300px;
+  height: 500px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+#clientlogo4 {
+  display: inline-block;
+  border: 1px solid salmon;
+}
+#Clblogos {
+  display: inline-block;
+  border: 1px solid maroon;
+  text-align: center;
+  height: 100px;
+  width: 300px;
+  padding: 10px;
+  margin-left: 105px;
+  margin-top: 200px;
+}
+#block5 {
+  background-color: silver;
+  height: 100vh;
+}
+#pagecontent5 {
+  width: 70vh;
+  color: red;
+  padding-top: 60px;
+  margin-left: 600px;
+  text-align: center;
+}
+#adress {
+  display: inline-flex;
+  width: 350px;
+  height: 500px;
+  border: 2px solid black;
+  line-height: 100px;
+  margin-left: 200px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgba(50, 10, 75, 0.2);
+}
+#contactname {
+  display: block;
+  background-color: white;
+  padding: 5px;
+  width: 340px;
+  height: 20px;
+  margin-top: 50px;
+  border: 1px solid black;
+}
+#contactinfo {
+  border: 1px solid black;
+  display: block;
+  float: right;
+  margin-left: 100px;
+  margin-right: 300px;
+  width: 600px;
+  height: 200px;
+}
+footer {
+  background-color: lightgreen;
+  margin-top: 100px;
+  height: 50px;
+  text-align: center;
+  text-transform: capitalize;
+  line-height: 50px;
+  font-weight: 600;
+  color: maroon;
+  font-size: 25px;
+}
