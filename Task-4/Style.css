@@ -1,0 +1,146 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: navy;
+}
+#mainheader {
+  display: flex;
+  background-color: white;
+  height: 60px;
+  width: 100%;
+  justify-content: space-between;
+}
+img {
+  width: 130px;
+  padding: px;
+  margin-left: 55px;
+}
+#mainmenu {
+  display: flex;
+  text-align: center;
+}
+#options {
+  display: flex;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  color: navy;
+  padding: 20px;
+  margin-right: 25px;
+}
+#submenu {
+  display: none;
+  position: fixed;
+  padding: 1px;
+  margin-top: 35vh;
+}
+#options:hover {
+  background-color: rgb(0, 0, 128);
+  color: white;
+  border-radius: 0px;
+  transform: scale(1.03, 1.03);
+  transition: 0.2s;
+}
+#options:hover ul {
+  display: block;
+  position: absolute;
+  list-style: none;
+  background-color: rgba(255, 0, 255, 0.651);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#options:active {
+  background-color: navy;
+  color: white;
+}
+.listitem {
+  border-bottom: 1px solid black;
+  padding: 10px;
+  font-weight: 200;
+}
+.listitem:hover {
+  background-color: white;
+  color: black;
+  transform: scale(1.03, 1.03);
+  transition: 0.3s;
+}
+#wrap1 {
+  width: 30%;
+  margin: 100px auto;
+  box-shadow: 0px 0px 5px 2px black;
+  padding: 15px;
+  background-color: white;
+}
+#wrap1:hover {
+  transform: scale(1.1, 1.1);
+  transition: 1s;
+  border-radius: 10px;
+}
+#wrap2 {
+  border: 1px dotted magenta;
+  padding: 15px;
+}
+.userfields {
+  border: none;
+  width: 100%;
+  border-left: 1px solid magenta;
+  font-size: 20px;
+  padding-left: 5px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#usercontent {
+  width: 100%;
+  display: flex;
+  border: 1px solid magenta;
+  line-height: 25px;
+  color: magenta;
+  margin-top: 15px;
+}
+h1 {
+  text-align: center;
+}
+i {
+  padding: 12px;
+}
+.gender {
+  color: blac;
+}
+.Choose {
+  width: 100%;
+  height: 35px;
+  font-weight: 600;
+  text-align: center;
+}
+.Choose:hover {
+  width: 100%;
+  transform: scale(1.05, 1.05);
+  transition: 0.2s;
+  margin-bottom: 15px;
+}
+#textarea1 {
+  margin-left: 15px;
+  width: 100%;
+  border: none;
+}
+button {
+  width: 100%;
+  padding: 5px;
+  margin-top: 7px;
+  border: none;
+  background-color: magenta;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+}
+button:hover {
+  background-color: rgb(209, 4, 209);
+}
+footer {
+  color: white;
+  background-color: magenta;
+  text-align: center;
+  padding: 2px;
+  margin-top: 16vh;
+}
